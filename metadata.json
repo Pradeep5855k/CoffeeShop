@@ -1,0 +1,6 @@
+{
+  "name": "CoffeeShop Billing & POS",
+  "description": "Modern 3D Android coffee shop billing, point of sale, inventory, and receipt management application with offline local storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
